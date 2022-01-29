@@ -4,7 +4,12 @@ import firebase from 'firebase/app';
 import 'firebase/firestore';
 
 const firebaseConfig = {
-  // your config
+  apiKey: 'AIzaSyCtrIZVLojU87crCafqW80EOze4cDS83Jw',
+  authDomain: 'webrtc-firebase-videochat.firebaseapp.com',
+  projectId: 'webrtc-firebase-videochat',
+  storageBucket: 'webrtc-firebase-videochat.appspot.com',
+  messagingSenderId: '55922910006',
+  appId: '1:55922910006:web:920dbe4c863f7c996c8997',
 };
 
 if (!firebase.apps.length) {
