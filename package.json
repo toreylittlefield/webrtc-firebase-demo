@@ -7,7 +7,7 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "vite": "^2.0.5"
+    "vite": "^2.9.13"
   },
   "dependencies": {
     "firebase": "^8.2.10"
